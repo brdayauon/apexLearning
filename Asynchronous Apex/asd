@@ -1,0 +1,4 @@
+Future Methods -
+    used for callout to external web services
+    operations u want in their own thread 
+    isolating DML operations. 
