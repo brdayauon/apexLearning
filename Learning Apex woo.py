@@ -5,7 +5,7 @@ Trigger Syntax.
 
 trigger TriggerName on ObjectName (trigger_events) {
 
-    code_block
+code_block
 }
 
 To execute a trigger before or after insert, update, delete, and undelete operations, specify multiple trigger events in a comma-separated list. The events you can specify are:
